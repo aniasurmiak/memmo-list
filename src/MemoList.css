@@ -1,0 +1,8 @@
+input {
+  margin: 1rem;
+  border-radius: 3px;
+}
+button {
+  border-radius: 3px;
+  background-color: aqua;
+}
