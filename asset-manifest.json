@@ -1,14 +1,14 @@
 {
-  "main.css": "%20//aniasurmiak.github.io/memmo-list/static/css/main.1ea6d705.chunk.css",
-  "main.js": "%20//aniasurmiak.github.io/memmo-list/static/js/main.9d8de619.chunk.js",
-  "main.js.map": "%20//aniasurmiak.github.io/memmo-list/static/js/main.9d8de619.chunk.js.map",
-  "runtime~main.js": "%20//aniasurmiak.github.io/memmo-list/static/js/runtime~main.ad5eb3ce.js",
-  "runtime~main.js.map": "%20//aniasurmiak.github.io/memmo-list/static/js/runtime~main.ad5eb3ce.js.map",
-  "static/js/2.98dcc9dd.chunk.js": "%20//aniasurmiak.github.io/memmo-list/static/js/2.98dcc9dd.chunk.js",
-  "static/js/2.98dcc9dd.chunk.js.map": "%20//aniasurmiak.github.io/memmo-list/static/js/2.98dcc9dd.chunk.js.map",
-  "index.html": "%20//aniasurmiak.github.io/memmo-list/index.html",
-  "precache-manifest.35f86e5654175cce59ac521188d89f70.js": "%20//aniasurmiak.github.io/memmo-list/precache-manifest.35f86e5654175cce59ac521188d89f70.js",
-  "service-worker.js": "%20//aniasurmiak.github.io/memmo-list/service-worker.js",
-  "static/css/main.1ea6d705.chunk.css.map": "%20//aniasurmiak.github.io/memmo-list/static/css/main.1ea6d705.chunk.css.map",
-  "static/media/logo.svg": "%20//aniasurmiak.github.io/memmo-list/static/media/logo.5d5d9eef.svg"
+  "main.css": "/memmo-list/static/css/main.4cbe6765.chunk.css",
+  "main.js": "/memmo-list/static/js/main.0981aa61.chunk.js",
+  "main.js.map": "/memmo-list/static/js/main.0981aa61.chunk.js.map",
+  "runtime~main.js": "/memmo-list/static/js/runtime~main.1381ed37.js",
+  "runtime~main.js.map": "/memmo-list/static/js/runtime~main.1381ed37.js.map",
+  "static/js/2.98dcc9dd.chunk.js": "/memmo-list/static/js/2.98dcc9dd.chunk.js",
+  "static/js/2.98dcc9dd.chunk.js.map": "/memmo-list/static/js/2.98dcc9dd.chunk.js.map",
+  "index.html": "/memmo-list/index.html",
+  "precache-manifest.c3b5033634f514f544403bcdeba0fa26.js": "/memmo-list/precache-manifest.c3b5033634f514f544403bcdeba0fa26.js",
+  "service-worker.js": "/memmo-list/service-worker.js",
+  "static/css/main.4cbe6765.chunk.css.map": "/memmo-list/static/css/main.4cbe6765.chunk.css.map",
+  "static/media/logo.svg": "/memmo-list/static/media/logo.5d5d9eef.svg"
 }

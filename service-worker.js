@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "%20//aniasurmiak.github.io/memmo-list/precache-manifest.35f86e5654175cce59ac521188d89f70.js"
+  "/memmo-list/precache-manifest.c3b5033634f514f544403bcdeba0fa26.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("%20//aniasurmiak.github.io/memmo-list/index.html", {
+workbox.routing.registerNavigationRoute("/memmo-list/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
