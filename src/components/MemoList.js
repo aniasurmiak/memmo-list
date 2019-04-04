@@ -1,14 +1,17 @@
 import React, { Component } from 'react'
-import './MemoList.css'
+import '../styles/MemoList.css'
 import ItemsList from './ItemsList'
 
 export class MemoList extends Component {
 
   constructor(props) {
     super(props)
+    this.localStorage = JSON.parse(localStorage.getItem("items"))
+    this.items = (this.localStorage !== null ? this.localStorage : [])
     this.state = {
       text: '',
-      items: []
+      items: this.items
+
     }
   }
 
@@ -22,12 +25,14 @@ export class MemoList extends Component {
       id: Date.now(),
       text: this.state.text
     }
+    const newItems = this.state.items.concat(newItem);
     this.setState(
       state => ({
-        items: state.items.concat(newItem),
+        items: newItems,
         text: ''
       })
     )
+    localStorage.setItem("items", JSON.stringify(newItems));
   }
 
   render() {
